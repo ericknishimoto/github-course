@@ -1,6 +1,6 @@
 # Git Course
 
-Este é um repositório teste para ensinar como o Git funcionar.i
+Este é um repositório teste para ensinar como o Git funcionar.
 
 Saiba mais em [willianjusten.com.br](http://willianjusten.com.br)
 
